@@ -74,12 +74,16 @@
 <div align="center">
 <img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif" >
 </div>
+<div align="center">
 <details>
   <summary><h2>📊 Github Achievements</h2></summary>
 <!-- Achievements -->
 <h3 align="center">Stats:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FarenCoder&theme=matrix" alt="rodolfoMoreno" /></a> </p>
 </details>
+<div align="center">
+<img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif" >
+</div>
 <!-- Status-->
 <details>
   <summary><h2>📊 Github Stats and Activity</h2></summary>
@@ -99,6 +103,7 @@
 </details>
 <div align="center">
 <img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif" >
+</div>
 </div>
 <!-- PROFILE VISIT -->
 <img src="https://komarev.com/ghpvc/?username=FarenCoder&color=green">
