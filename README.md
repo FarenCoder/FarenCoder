@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=51F783&center=true&vCenter=true&multiline=true&width=435&height=135&lines=HELLO%F0%9F%91%8B;My+name+is+Rodolfo%2C;I'm+from+Brazil%2C;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-<img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif">
+<img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif" align="center">
 <!--DESCRIPTION -->
 <div align="center">
   
