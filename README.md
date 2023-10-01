@@ -88,7 +88,7 @@
 <details>
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 <div align="center">  
-  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FarenCoder&show_icons=true&count_private=true&hide_border=true&title_color=008000&icon_color=02D9F7FF&text_color=6594E2&bg_color=0d1117" alt="Dev github stats" /> 
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FarenCoder&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentagecount_private=true&hide_border=true&title_color=008000&icon_color=02D9F7FF&text_color=6594E2&bg_color=0d1117" alt="Dev github stats" /> 
   
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarenCoder&layout=compact&hide_border=true&title_color=008000&text_color=6594E2&bg_color=0d1117" />
 </div>
