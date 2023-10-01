@@ -101,6 +101,6 @@
 <img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif" >
 </div>
 <!-- PROFILE VISIT -->
-<img src="https://komarev.com/ghpvc/?username=FarenCoder&color=green">https://
+<img src="https://komarev.com/ghpvc/?username=FarenCoder&color=green">
 <!-- GIF FOOTER -->
 <p align="left"> <img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/banner-footer.gif" alt="rodolfomoreno" /> </p>
