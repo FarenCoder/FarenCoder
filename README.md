@@ -1,6 +1,8 @@
 <!-- GIT HEADER -->
 <img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/banner-footer.gif">
-<img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif">
+<div align="center">
+<img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif" >
+</div>
 <!-- TYPING DATA -->
 <div align="center">
 
@@ -27,14 +29,18 @@
 
 </div>
 <br>
-<img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif">
+<div align="center">
+<img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif" >
+</div>
 <!-- CONTACT -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rodolfo-moreno-8a6629171/" target="blank"><img align="center" src="https://github.com/FarenCoder/FarenCoder/blob/4159049060c15c9a3067ef1107cb930829bce571/assets/linked-in-alt.svg" alt="Rodolfo Moreno" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/FarenCoder/FarenCoder/blob/4159049060c15c9a3067ef1107cb930829bce571/assets/discord.svg" alt="Rodolfo" height="30" width="40" /></a>
 </p></br>
-<img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif">
+<div align="center">
+<img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif" >
+</div>
 <!-- TOOLS -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -65,7 +71,9 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Android_studio" width="40" height="40"/> </a>
 </p>
 <br>
-<img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif">
+<div align="center">
+<img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif" >
+</div>
 <details>
   <summary><h2>📊 Github Achievements</h2></summary>
 <!-- Achievements -->
@@ -89,7 +97,9 @@
     </a>
   </p>
 </details>
-<img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif">
+<div align="center">
+<img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif" >
+</div>
 <!-- PROFILE VISIT -->
 <img src="https://komarev.com/ghpvc/?username=FarenCoder&color=green">https://
 <!-- GIF FOOTER -->
