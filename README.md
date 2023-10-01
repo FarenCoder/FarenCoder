@@ -17,7 +17,7 @@
   
   📚 I am currently studying at [USCS](https://www.uscs.edu.br/)
   
-  🌱 I am currently in the race **Software Design, testing and Development**
+  🌱 I am currently studying **Software Design, testing and Development**
 
 🏙 Creator of the [4Testers](https://github.com/4Testers) organization
 
