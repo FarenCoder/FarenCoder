@@ -2,7 +2,9 @@
 <img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/banner-footer.gif">
 <img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif">
 <!-- TYPING DATA -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=51F783&center=true&vCenter=true&multiline=true&width=435&height=135&lines=HELLO%F0%9F%91%8B;My+name+is+Rodolfo%2C;I'm+from+Brazil%2C;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+
 <img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif">
 <!--DESCRIPTION -->
 <div align="center">
@@ -25,8 +27,8 @@
 <!-- CONTACT -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/rodolfo-moreno-8a6629171/" target="blank"><img align="center" src="https://github.com/FarenCoder/FarenCoder/blob/8122acb0652880f5e24ef1fec37db42d2037781d/assets/linked-in-alt.svg" alt="Rodolfo Moreno" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/FarenCoder/FarenCoder/blob/8122acb0652880f5e24ef1fec37db42d2037781d/assets/discord.svg" alt="Rodolfo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rodolfo-moreno-8a6629171/" target="blank"><img align="center" src="https://github.com/FarenCoder/FarenCoder/blob/4159049060c15c9a3067ef1107cb930829bce571/assets/linked-in-alt.svg" alt="Rodolfo Moreno" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/FarenCoder/FarenCoder/blob/4159049060c15c9a3067ef1107cb930829bce571/assets/discord.svg" alt="Rodolfo" height="30" width="40" /></a>
 </p></br>
 <img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif">
 <!-- TOOLS -->
@@ -85,6 +87,6 @@
 </details>
 <img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/line-neon.gif">
 <!-- PROFILE VISIT -->
-<p align="left"> <img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/banner-footer.gif" alt="rodolfomoreno" /> </p>
+<img src="https://komarev.com/ghpvc/?username=FarenCoder&color=green">https://
 <!-- GIF FOOTER -->
-<img src="https://github.com/FarenCoder/FarenCoder/blob/c5ee7a1a8f065f5e45a04531de195bab9d655473/assets/banner-footer.png">
+<p align="left"> <img src="https://github.com/FarenCoder/FarenCoder/blob/adcfcb20fe112baeec207c5375c9a10e9e545556/assets/banner-footer.gif" alt="rodolfomoreno" /> </p>
